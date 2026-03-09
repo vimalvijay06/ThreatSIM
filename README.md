@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="docs/assets/banner.png" alt="ThreatSIM Banner" width="800" />
-</p>
-
 <h1 align="center">ThreatSIM</h1>
 
 <p align="center">
